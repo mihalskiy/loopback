@@ -1,6 +1,6 @@
 {
   "ids": {
-    "Todo": 7
+    "Todo": 11
   },
   "models": {
     "Todo": {
@@ -9,7 +9,10 @@
       "3": "{\"title\":\"play space invaders\",\"desc\":\"Become the very best!\",\"id\":3}",
       "4": "{\"title\":\"crush rebel scum\",\"desc\":\"Every.Last.One.\",\"id\":4}",
       "5": "{\"title\":\"get the milk\",\"id\":5}",
-      "6": "{\"title\":\"get the milk\",\"id\":6}"
+      "6": "{\"title\":\"get the milk\",\"id\":6}",
+      "7": "{\"title\":\"string\",\"desc\":\"string\",\"isComplete\":true,\"id\":7}",
+      "8": "{\"title\":\"string\",\"desc\":\"string\",\"isComplete\":true,\"id\":8}",
+      "9": "{\"title\":\"string\",\"desc\":\"string\",\"isComplete\":true,\"id\":9}"
     }
   }
 }
