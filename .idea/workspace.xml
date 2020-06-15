@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0e5f355e-c606-4349-b0db-6872cef1d785" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dCGf98UcjqPGF0qwV4SM4YvV1f" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.linters.configure.manually.selectedeslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="sshConsole" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e5f355e-c606-4349-b0db-6872cef1d785" name="Default Changelist" comment="" />
+      <created>1591921761557</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591921761557</updated>
+      <workItem from="1591921765160" duration="525000" />
+      <workItem from="1591922596786" duration="1012000" />
+      <workItem from="1592001972208" duration="740000" />
+      <workItem from="1592087754041" duration="6078000" />
+      <workItem from="1592226646823" duration="4832000" />
+    </task>
+    <task id="LOCAL-00001" summary="autoload">
+      <created>1591923178995</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591923178995</updated>
+    </task>
+    <task id="LOCAL-00002" summary="autoload">
+      <created>1592087770290</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1592087770290</updated>
+    </task>
+    <task id="LOCAL-00003" summary="autoload">
+      <created>1592183194242</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1592183194242</updated>
+    </task>
+    <task id="LOCAL-00004" summary="autoload">
+      <created>1592183611821</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1592183611821</updated>
+    </task>
+    <task id="LOCAL-00005" summary="autoload">
+      <created>1592218620112</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1592218620112</updated>
+    </task>
+    <task id="LOCAL-00006" summary="autoload">
+      <created>1592232596103</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1592232596103</updated>
+    </task>
+    <task id="LOCAL-00007" summary="autoload">
+      <created>1592262730524</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1592262730524</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="autoload" />
+    <option name="LAST_COMMIT_MESSAGE" value="autoload" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="771" y="245" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592232570701">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="771" y="245" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.826@0.23.1440.826" timestamp="1592232570701" />
+    <state x="408" y="179" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1592226459421">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="408" y="179" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.826@0.23.1440.826" timestamp="1592226459421" />
+    <state x="491" y="23" key="CommitChangelistDialog2" timestamp="1592262730295">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="491" y="23" key="CommitChangelistDialog2/0.23.1440.826@0.23.1440.826" timestamp="1592262730295" />
+    <state width="1010" height="206" key="GridCell.Tab.0.bottom" timestamp="1592001006578">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1010" height="206" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1592001006578" />
+    <state width="1010" height="206" key="GridCell.Tab.0.center" timestamp="1592001006577">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1010" height="206" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1592001006577" />
+    <state width="1010" height="206" key="GridCell.Tab.0.left" timestamp="1592001006577">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1010" height="206" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1592001006577" />
+    <state width="1010" height="206" key="GridCell.Tab.0.right" timestamp="1592001006577">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1010" height="206" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1592001006577" />
+    <state x="514" y="176" key="Vcs.Push.Dialog.v2" timestamp="1592262731857">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="514" y="176" key="Vcs.Push.Dialog.v2/0.23.1440.826@0.23.1440.826" timestamp="1592262731857" />
+    <state x="835" y="357" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592232478958">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="835" y="357" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.826@0.23.1440.826" timestamp="1592232478958" />
+    <state x="418" y="191" width="604" height="490" key="find.popup" timestamp="1592262020957">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="418" y="191" width="604" height="490" key="find.popup/0.23.1440.826@0.23.1440.826" timestamp="1592262020957" />
+  </component>
+</project>
