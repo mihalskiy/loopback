@@ -1,4 +1,6 @@
 import {ApplicationConfig, TodoApplication} from './application';
+import {config} from 'dotenv';
+
 
 export * from './application';
 
@@ -6,7 +8,7 @@ export async function main(options: ApplicationConfig = {}) {
   const app = new TodoApplication(options);
   await app.boot();
   await app.start();
-
+  config();
   const url = app.restServer.url;
   console.log(`Server is running at ${url}`);
   console.log(`Try ${url}/ping`);
@@ -18,7 +20,7 @@ if (require.main === module) {
   // Run the application
   const config = {
     rest: {
-      port: +(process.env.PORT ?? 8080),
+      port: +(process.env['PORT'] ?? 9797),
       host: process.env.HOST,
       // The `gracePeriodForClose` provides a graceful close for http/https
       // servers with keep-alive clients. The default value is `Infinity`

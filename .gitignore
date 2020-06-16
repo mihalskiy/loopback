@@ -60,5 +60,6 @@ typings/
 # Transpiled JavaScript files from Typescript
 # Cache used by TypeScript's incremental build
 *.tsbuildinfo
-
+/dist
+.idea
 .vercel
