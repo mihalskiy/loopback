@@ -1,1 +1,1 @@
-web: npm install -g @loopback/cli && npm i && PORT=3000 node index.js
+web: npm install -g @loopback/cli && npm i && npm run build && node dist/index.js
